@@ -1,0 +1,57 @@
+[
+    {
+      "label": "Agriculture & Fishing",
+      "children": [
+        {
+          "label": "Agriculture"
+        },
+        {
+          "label": "Crops"
+        },
+        {
+          "label": "Farming & Livestock"
+        },
+        {
+          "label": "Fishery & Aquaculture"
+        },
+        {
+          "label": "Ranching"
+        }
+      ]
+    },
+    {
+      "label": "Bussiness Services",
+      "children": [
+        {
+          "label": "Accounting"
+        },
+        {
+          "label": "Accounting Services" 
+        },
+        {
+          "label": "Auctions"
+        },
+        {
+          "label": "Career Planning"
+        },
+        {
+          "label": "Debt Collection"
+        }
+      ]
+    },
+    {
+      "label": "Information Technology",
+      "children": [
+        {
+          "label": "Web Services"
+        },
+        {
+          "label": "Tools & Modules"
+        },
+        {
+          "label": "Data Services"
+        }
+      ]
+    }
+]
+  

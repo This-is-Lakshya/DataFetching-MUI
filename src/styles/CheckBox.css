@@ -1,0 +1,73 @@
+ .CheckBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 32vh;
+    margin-left: 80vh;
+  }
+
+.tree-outer-wrap {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    height: 70%;
+    width: 100%;
+  }
+  
+.tree-inner-wrap {
+    flex: 1 1 auto;
+    width: 100%;
+  }
+
+  .react-dropdown-tree-select .dropdown .dropdown-trigger {
+    display: none;
+  }
+  
+.react-dropdown-tree-select .dropdown {
+    width: 100%;
+  }
+  
+.react-dropdown-tree-select .dropdown .dropdown-trigger {
+    width: 100%;
+  }
+  
+.react-dropdown-tree-select {
+    font-size: 1.2rem;
+  }
+  
+.react-dropdown-tree-select .dropdown {
+    position: static;
+  }
+.react-dropdown-tree-select .dropdown .dropdown-content {
+    background: none;
+    box-shadow: none;
+    border: none;
+    position: static;
+  }
+  
+.react-dropdown-tree-select .dropdown .dropdown-trigger.arrow {
+    cursor: initial;
+  }
+  
+.react-dropdown-tree-select .dropdown .dropdown-content .search {
+    padding: 0.5rem;
+    position: absolute;
+    transform: translateY(-2.875rem);
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 15;
+}
+
+.react-dropdown-tree-select .dropdown .dropdown-content ul {
+    padding: 0.25rem;
+  }
+  
+.react-customscroll {
+    overflow: initial !important;
+}
+  
+.react-customscroll-scrollbar-area {
+    border-radius: 9999px;
+}
+  
